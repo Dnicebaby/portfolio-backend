@@ -117,3 +117,4 @@ app.delete('/api/portfolio/data', (req, res) => {
 app.listen(PORT, function () {
   console.log('Portfolio backend listening on port ' + PORT);
 });
+  
